@@ -18,4 +18,4 @@ steps:
       Medium: '0'
       Low: '0'
       Operator: 'or'
-      Tags: 'env=CS, team=GLR, phase=testing'
+      Tags: 'env:CS, team:GLR, phase:testing'
